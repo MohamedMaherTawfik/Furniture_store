@@ -1,2 +1,0 @@
-my name is mohamed and iam backend deeloper using python django
-and lgood at html css bootstrap
